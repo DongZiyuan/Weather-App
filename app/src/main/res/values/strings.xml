@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="default_text">default</string>
+    <string name="default_value">N/A</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="visibility">Visibility</string>
+    <string name="pressure">Pressure</string>
+    <string name="precipitation">Precipitation</string>
+    <string name="temperature">Temperature</string>
+    <string name="cloud_cover">Cloud Cover</string>
+    <string name="ozone">Ozone</string>
+    <string name="progressbar">Fetching Weather</string>
+    <string name="result">Search Result</string>
+    <string name="searchhint">Search...</string>
+    <string name="curloc">Los Angeles, CA, USA</string>
+    <string name="degree">34.0322/-118.2836</string>
+</resources>
